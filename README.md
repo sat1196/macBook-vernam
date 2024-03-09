@@ -1,6 +1,6 @@
 # macBook-vernam
 
-*** Usage ***
+** Usage **
 
 Run command python3 main.py "My secret"
 
